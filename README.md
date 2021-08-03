@@ -2,11 +2,6 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&color=black&link=mailto:lucas.98sf@gmail.com)](mailto:lucas.98sf@gmail.com)
 
 ## Hello there! 👋, 
-
-<p align="center">
-</p>
-
-
   ![Node.JS](https://img.shields.io/badge/-Node.JS-333333?style=flat&logo=node.js)
   ![Typescript](https://img.shields.io/badge/-Typescript-333333?style=flat&logo=typescript)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
@@ -15,9 +10,9 @@
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-<br/></p>
- 
----
+<br/>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Lucas98sf&count_private=true&theme=synthwave" /> </p>
 
 - 👨‍💻 I'm currently a FullStack Developer, focusing primarily on back-end programming with Node.js and MongoDB
 - 🌱 I’m currently learning TypeScript and React
+- 🎓 Studying Computer Science at UFABC
