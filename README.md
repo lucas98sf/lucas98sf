@@ -10,8 +10,10 @@
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+  ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)
 <br/>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Lucas98sf&count_private=true&theme=synthwave&hide=stars,prs,issues,contribs" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Lucas98sf&show_icons=true&count_private=true&theme=synthwave&hide=stars,prs,issues,contribs" /> </p>
 
 - 👨‍💻 I'm currently a FullStack Developer, focusing primarily on back-end programming with Node.js and MongoDB
 - 🌱 I’m currently learning TypeScript and React
