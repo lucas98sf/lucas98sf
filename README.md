@@ -14,7 +14,6 @@
   <img src="https://img.shields.io/badge/-Git-333333?style=flat&logo=git">
   <img src="https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql">
   <img src="https://img.shields.io/badge/-Python-333333?style=flat&logo=python">
-  <img src="https://img.shields.io/badge/-C%23-333333?style=flat&logo=csharp">
   <img src="https://img.shields.io/badge/-Unity-333333?style=flat&logo=unity">
 </p>
 <br/>
