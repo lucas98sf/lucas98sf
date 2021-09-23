@@ -9,9 +9,13 @@
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=Mongodb)
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+  ![jQuery](https://img.shields.io/badge/-jQuery-333333?style=flat&logo=jquery)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)
+  ![Postgres](https://img.shields.io/badge/-Postgres-333333?style=flat&logo=postgresql)
+  ![C#](https://img.shields.io/badge/-C%23-333333?style=flat&logo=csharp)
+  ![Unity](https://img.shields.io/badge/-Unity-333333?style=flat&logo=unity)
+  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 <br/>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Lucas98sf&show_icons=true&count_private=true&theme=synthwave&hide=stars,prs,issues,contribs" /> </p>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Lucas98sf&layout=compact&hide=c%23,shaderlab,hlsl&theme=synthwave"/> </p>
