@@ -2,18 +2,21 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&color=black&link=mailto:lucas.98sf@gmail.com)](mailto:lucas.98sf@gmail.com)
 
 ## Hello there! 👋, 
-  ![Node.js](https://img.shields.io/badge/-Node.JS-333333?style=flat&logo=node.js)
-  ![TypeScript](https://img.shields.io/badge/-Typescript-333333?style=flat&logo=typescript)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest)
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=Mongodb)
-  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-  ![CSS3](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![PostgreSQL](https://img.shields.io/badge/-Postgres-333333?style=flat&logo=postgresql)
-  ![Unity](https://img.shields.io/badge/-Unity-333333?style=flat&logo=unity)
-  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+<p align="center">
+  <img src="https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js">
+  <img src="https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript">
+  <img src="https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript">
+  <img src="https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest">
+  <img src="https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=Mongodb">
+  <img src="https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5">
+  <img src="https://img.shields.io/badge/-CSS3-333333?style=flat&logo=CSS3&logoColor=1572B6">
+  <img src="https://img.shields.io/badge/-React-333333?style=flat&logo=react">
+  <img src="https://img.shields.io/badge/-Git-333333?style=flat&logo=git">
+  <img src="https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql">
+  <img src="https://img.shields.io/badge/-Python-333333?style=flat&logo=python">
+  <img src="https://img.shields.io/badge/-C%23-333333?style=flat&logo=csharp">
+  <img src="https://img.shields.io/badge/-Unity-333333?style=flat&logo=unity">
+</p>
 <br/>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Lucas98sf&show_icons=true&count_private=true&theme=synthwave&hide=stars,prs,issues,contribs" /> </p>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Lucas98sf&layout=compact&hide=c%23,shaderlab,hlsl&theme=synthwave"/> </p>
