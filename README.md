@@ -11,7 +11,7 @@
   ![CSS3](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![Postgres](https://img.shields.io/badge/-Postgres-333333?style=flat&logo=postgresql)
+  ![PostgreSQL](https://img.shields.io/badge/-Postgres-333333?style=flat&logo=postgresql)
   ![Unity](https://img.shields.io/badge/-Unity-333333?style=flat&logo=unity)
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 <br/>
