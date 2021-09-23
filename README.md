@@ -2,17 +2,16 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&color=black&link=mailto:lucas.98sf@gmail.com)](mailto:lucas.98sf@gmail.com)
 
 ## Hello there! 👋, 
-  ![Node.JS](https://img.shields.io/badge/-Node.JS-333333?style=flat&logo=node.js)
-  ![Typescript](https://img.shields.io/badge/-Typescript-333333?style=flat&logo=typescript)
+  ![Node.js](https://img.shields.io/badge/-Node.JS-333333?style=flat&logo=node.js)
+  ![TypeScript](https://img.shields.io/badge/-Typescript-333333?style=flat&logo=typescript)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=Mongodb)
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+  ![CSS3](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![Postgres](https://img.shields.io/badge/-Postgres-333333?style=flat&logo=postgresql)
-  ![C#](https://img.shields.io/badge/-C%23-333333?style=flat&logo=csharp)
   ![Unity](https://img.shields.io/badge/-Unity-333333?style=flat&logo=unity)
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 <br/>
