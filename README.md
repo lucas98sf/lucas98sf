@@ -20,6 +20,6 @@
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Lucas98sf&show_icons=true&count_private=true&theme=synthwave&hide=stars,prs,issues,contribs" /> </p>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Lucas98sf&layout=compact&hide=c%23,shaderlab,hlsl&theme=synthwave"/> </p>
 
-- 👨‍💻 I'm currently a FullStack Developer, focusing primarily on back-end programming with Node.js and MongoDB
-- 🌱 I’m currently learning TypeScript and React
+- 👨‍💻 I'm currently a FullStack Developer, focusing primarily on back-end programming with Node.js
+- 🌱 I’m currently learning GraphQL and React
 - 🎓 Studying Computer Science at UFABC
