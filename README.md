@@ -26,5 +26,4 @@
 <p align="center"> <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=Lucas98sf&layout=compact&hide=c%23,shaderlab,hlsl&theme=synthwave"/> </p>
 
 - 👨‍💻 I'm a FullStack Developer with a focus on TypeScript and React
-- 🌱 Currently expanding my knowledge by learning Haskell and Elixir
 - 🎓 Studying Computer Science at UFABC
