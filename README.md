@@ -14,10 +14,9 @@
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=Mongodb)
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
-  ![Nest](https://img.shields.io/badge/-Nest.js-333333?style=flat&logo=nestjs&logoColor=E0234E)
   ![Next](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js)
   ![GraphQL](https://img.shields.io/badge/-GraphQL-333333?style=flat&logo=graphql&logoColor=E10098)
-  ![Prisma](https://img.shields.io/badge/-Prisma-333333?style=flat&logo=Prisma)
+  ![Relay](https://img.shields.io/badge/-Relay-333333?style=flat&logo=Relay)
   ![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazon-aws&logoColor=%23FF9900)
 
 </div>
