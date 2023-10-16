@@ -12,12 +12,11 @@
   ![Node](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=Mongodb)
-  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
   ![Next](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js)
   ![GraphQL](https://img.shields.io/badge/-GraphQL-333333?style=flat&logo=graphql&logoColor=E10098)
   ![Relay](https://img.shields.io/badge/-Relay-333333?style=flat&logo=Relay)
   ![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazon-aws&logoColor=%23FF9900)
+  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
 
 </div>
 <br/>
