@@ -20,8 +20,8 @@
 
 </div>
 <br/>
-<p align="center"> <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Lucas98sf&show_icons=true&count_private=true&theme=synthwave&hide=stars,prs,issues,contribs" /> </p>
-<p align="center"> <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=Lucas98sf&layout=compact&hide=c%23,shaderlab,hlsl&theme=synthwave"/> </p>
+<p align="center"> <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=lufferreira&show_icons=true&count_private=true&theme=synthwave&hide=stars,prs,issues,contribs" /> </p>
+<p align="center"> <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=lufferreira&layout=compact&hide=c%23,shaderlab,hlsl&theme=synthwave"/> </p>
 
 - 👨‍💻 I'm a FullStack Developer working with TypeScript and React
 - 🎓 Studying Computer Science at UFABC
