@@ -25,4 +25,4 @@
 
 - 👨‍💻 I'm a FullStack Developer working with TypeScript and React
 - 🎓 Studying Computer Science at UFABC
-- 🎯 Currently, I am interested in learning more about functional programming and languages like Rust, OCaml/ReScript. Additionally, I want to improve my TypeScript coding skills.
+- 🎯 Currently, I am interested in learning more about functional programming. Additionally, I want to improve my TypeScript coding skills.
