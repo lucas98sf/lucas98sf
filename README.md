@@ -24,5 +24,4 @@
 <p align="center"> <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=lucas98sf&layout=compact&hide=shaderlab,hlsl,css,java&theme=synthwave"/> </p>
 
 - 👨‍💻 I'm a FullStack Developer working with TypeScript and React
-- 🎓 Studying Computer Science at UFABC
 - 🎯 Currently, I am interested in learning more about functional programming. Additionally, I want to improve my TypeScript coding skills.
